@@ -1,0 +1,10 @@
+\\tank.ysu.local\kbsmith01\Documents\GitHub\VB_LABS_01_05_Lab_05\Lab_05\bin\Debug\SalarySurvey.exe.config
+\\tank.ysu.local\kbsmith01\Documents\GitHub\VB_LABS_01_05_Lab_05\Lab_05\bin\Debug\SalarySurvey.exe
+\\tank.ysu.local\kbsmith01\Documents\GitHub\VB_LABS_01_05_Lab_05\Lab_05\bin\Debug\SalarySurvey.pdb
+\\tank.ysu.local\kbsmith01\Documents\GitHub\VB_LABS_01_05_Lab_05\Lab_05\bin\Debug\SalarySurvey.xml
+\\tank.ysu.local\kbsmith01\Documents\GitHub\VB_LABS_01_05_Lab_05\Lab_05\obj\x86\Debug\SalarySurvey.Resources.resources
+\\tank.ysu.local\kbsmith01\Documents\GitHub\VB_LABS_01_05_Lab_05\Lab_05\obj\x86\Debug\SalarySurvey.SalarySurvey.resources
+\\tank.ysu.local\kbsmith01\Documents\GitHub\VB_LABS_01_05_Lab_05\Lab_05\obj\x86\Debug\Lab_05.vbproj.GenerateResource.Cache
+\\tank.ysu.local\kbsmith01\Documents\GitHub\VB_LABS_01_05_Lab_05\Lab_05\obj\x86\Debug\SalarySurvey.exe
+\\tank.ysu.local\kbsmith01\Documents\GitHub\VB_LABS_01_05_Lab_05\Lab_05\obj\x86\Debug\SalarySurvey.xml
+\\tank.ysu.local\kbsmith01\Documents\GitHub\VB_LABS_01_05_Lab_05\Lab_05\obj\x86\Debug\SalarySurvey.pdb
