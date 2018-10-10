@@ -46,6 +46,10 @@ Public Class SalarySurvey
             ' Calculate index integer
             TempArrayIndexInteger = Convert.ToInt32(Math.Truncate(SalaryDecimal / 100D)) - INDEX_OFFSET_INTEGER
 
+            ' Make sure that values larger than 8 are not returned
+            TempArrayIndexInteger = Math.Min(TempArrayIndexInteger,
+                                             SalesRangeIntegerArray.GetUpperBound(0))
+
             ' Update array counter (increment) at calculated array index
             SalesRangeIntegerArray(TempArrayIndexInteger) += 1
 
@@ -65,8 +69,6 @@ Public Class SalarySurvey
             .Focus()
             .Clear()
         End With
-
-
     End Sub
 
     Private Sub SalarySurvey_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -93,8 +95,13 @@ Public Class SalarySurvey
         Dim LineString As String = ""
 
         ' Loop through array and append contents of array at that index to linestring
-        For CounterInteger As Integer = 0 To SalesRangeIntegerArray.GetUpperBound(0)
-            LineString &= SalesRangeIntegerArray(CounterInteger).ToString & vbCrLf
+        'For CounterInteger As Integer = 0 To SalesRangeIntegerArray.GetUpperBound(0)
+        '    LineString &= SalesRangeIntegerArray(CounterInteger).ToString & vbCrLf
+        'Next
+
+        ' Loop through array and append contents of array at that index to linestring
+        For Each TempValue As Integer In SalesRangeIntegerArray
+            LineString &= TempValue.ToString & vbCrLf
         Next
 
         ' Set label.text equal to linestring
