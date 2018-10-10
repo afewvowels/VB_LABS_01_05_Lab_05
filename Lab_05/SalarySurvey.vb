@@ -16,6 +16,7 @@ Public Class SalarySurvey
     ' Constant values for base salary and commission rate on sales
     Const BASE_SALARY_DECIMAL As Decimal = 200D
     Const COMMISSION_RATE_DECIMAL As Decimal = 0.1D
+    Const INDEX_OFFSET_INTEGER As Integer = 2
 
     ' Calculate salary and update totals
     Private Sub calculateButton_Click(sender As Object, e As EventArgs) Handles calculateButton.Click
@@ -43,7 +44,7 @@ Public Class SalarySurvey
             SalaryDecimal = BASE_SALARY_DECIMAL + (WeeklySaleAmountDecimal * COMMISSION_RATE_DECIMAL)
 
             ' Calculate index integer
-            TempArrayIndexInteger = Convert.ToInt32(SalaryDecimal / 100) - 2
+            TempArrayIndexInteger = Convert.ToInt32(Math.Truncate(SalaryDecimal / 100D)) - INDEX_OFFSET_INTEGER
 
             ' Update array counter (increment) at calculated array index
             SalesRangeIntegerArray(TempArrayIndexInteger) += 1
