@@ -1,0 +1,12 @@
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_06\Lab_06\obj\x86\Debug\SalarySurvey.exe
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_06\Lab_06\obj\x86\Debug\SalarySurvey.xml
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_06\Lab_06\obj\x86\Debug\SalarySurvey.pdb
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_06\Lab_06\bin\Debug\SalarySurvey.exe
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_06\Lab_06\bin\Debug\SalarySurvey.pdb
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_06\Lab_06\bin\Debug\SalarySurvey.xml
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_06\Lab_06\obj\x86\Debug\SalarySurvey.Resources.resources
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_06\Lab_06\obj\x86\Debug\SalarySurvey.SalarySurvey.resources
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_06\Lab_06\obj\x86\Debug\Lab_06.vbproj.GenerateResource.Cache
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_06_Work\Lab_06\obj\x86\Debug\SalarySurvey.exe
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_06_Work\Lab_06\obj\x86\Debug\SalarySurvey.xml
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_06_Work\Lab_06\obj\x86\Debug\SalarySurvey.pdb
